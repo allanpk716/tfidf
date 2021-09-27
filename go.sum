@@ -1,0 +1,9 @@
+github.com/go-ego/cedar v0.10.2 h1:0AQkBNfHAzuUn306v0ydMXAawHoIdxiYwN1+2XvFySw=
+github.com/go-ego/cedar v0.10.2/go.mod h1:OlEbpcRpzwp69CoCXPJTmrOzELoGAmFDgW3hdWrHHc0=
+github.com/go-ego/gse v0.69.5 h1:pH4qtu7upZaKLuEbJwU0nE/3SWMrwj5/jXW9HOK6SMU=
+github.com/go-ego/gse v0.69.5/go.mod h1:8fezpc/jPwOPTv7tty+5rphF8nANtPT4415f1hLJZTQ=
+github.com/vcaesar/tt v0.11.0/go.mod h1:GHPxQYhn+7OgKakRusH7KJ0M5MhywoeLb8Fcffs/Gtg=
+github.com/wilcosheh/tfidf v0.0.0-20170517095906-2847b6a5524e h1:Yq6K2NHO31+ImN1deqaOo2U4gMarmjIJ80ULQOsM64k=
+github.com/wilcosheh/tfidf v0.0.0-20170517095906-2847b6a5524e/go.mod h1:BDtD9ZfqP8PcWFAmISOdGe2G3zXtsuG3HnigSC1ZSaM=
+github.com/yanyiwu/gojieba v1.0.0 h1:0yAHD2rFffVXtjVG71cFyrhP8c/z7SGRAgNk4EJMIdY=
+github.com/yanyiwu/gojieba v1.0.0/go.mod h1:0AAj9tOG6WWXQ5FNffl4ruBy/hP7bHl2gs+YiDi1aYs=

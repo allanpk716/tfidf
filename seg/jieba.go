@@ -1,14 +1,17 @@
 package seg
 
-import "github.com/yanyiwu/gojieba"
+import "github.com/go-ego/gse"
 
 type JiebaTokenizer struct {
-	x *gojieba.Jieba
+	x *gse.Segmenter
 }
 
 func NewJieba() *JiebaTokenizer {
+
+	seg := gse.Segmenter{}
+	seg.LoadDict()
 	return &JiebaTokenizer{
-		x: gojieba.NewJieba(),
+		x: &seg,
 	}
 }
 
@@ -23,6 +26,6 @@ func (j *JiebaTokenizer) Seg(text string) []string {
 
 func (j *JiebaTokenizer) Free() {
 	if j.x != nil {
-		j.x.Free()
+		//j.x.Free()
 	}
 }
